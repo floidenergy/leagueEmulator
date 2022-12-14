@@ -1,6 +1,6 @@
+**League Emulator**
 ==================
-IntWars
-==================
+
 DISCLAIMER: This is for development purposes only, this is not a finished project - and should not be used in a production enviroment.
 About
 ------
@@ -21,20 +21,10 @@ Original Creators
 * Intline9 - intline9(at)gmail(dot)com
 * Ltsstar
 
-Other Important Contributors
--------
-* Elyotna (reddit: ?)
-* Spudgy (reddit: imSpudgy)
-* ProudHeart (reddit: chutch1122)
-
 
 License
 -------
 GPLv3 as sharing is caring, and when ever you extend/use/modify/fix any of this project you should share it again!
-
-Contact
--------
-You can find all the active contributors from this chatroom: https://discord.gg/0vmmZ6VAwXB05gB6
 
 Notes for Compiling on Windows
 ---------
